@@ -25,11 +25,11 @@ Dashboard do Cliente:
 # Layout do Projeto
 
 <p align="center">
-  <img width="1000" height="700" src="src/assets/to_readme/home.png">
-  <img width="1000" height="700" src="src/assets/to_readme/login.png">
-  <img width="1000" height="700" src="src/assets/to_readme/dashboard.png">
-  <img width="1000" height="700" src="src/assets/to_readme/extrato.png">
-  <img width="1000" height="700" src="src/assets/to_readme/movimentar.png">
+  <img src="src/assets/to_readme/home.png">
+  <img src="src/assets/to_readme/login.png">
+  <img src="src/assets/to_readme/dashboard.png">
+  <img src="src/assets/to_readme/extrato.png">
+  <img src="src/assets/to_readme/movimentar.png">
 </p>
 
 # Autor
