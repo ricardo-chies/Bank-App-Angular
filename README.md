@@ -1,4 +1,4 @@
-# BANCARIO APP ANGULAR
+# BANK APP ANGULAR
 
 # Descrição
 Este projeto consiste na criação de uma aplicação web utilizando angular com template free do PrimeNG.<br>
