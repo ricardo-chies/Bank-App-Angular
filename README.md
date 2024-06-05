@@ -3,6 +3,13 @@
 # Descrição
 Este projeto consiste na criação de uma aplicação web utilizando angular com template free do PrimeNG.<br>
 
+# Detalhes da Aplicação:
+
+<ul>
+  <li>Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 17.3.6.</li>
+  <li>Template Free PrimeNg</li>
+</ul>
+
 # Funcionalidades
 
 Tela de Início
@@ -20,6 +27,15 @@ Dashboard do Cliente:
   <li>Visualização de saldo atual.</li>
   <li>Visualização de extrato da conta.</li>
   <li>Realização de movimentações financeiras.</li>
+</ul>
+
+# Rodando o APP
+
+<ul>
+  <li>Para que seja possível realizar as ações do aplicativo é necessário estar rodando a aplicação [Bank Java] (https://github.com/ricardo-chies/Bank-Java).
+  Acesse o link, baixe e inicie a aplicação.</li>
+  <li>Execute `ng serve` para iniciar um servidor de desenvolvimento.</li>
+  <li>Navegue até `http://localhost:4200/`.</li>
 </ul>
 
 # Layout do Projeto
