@@ -29,14 +29,35 @@ Dashboard do Cliente:
   <li>Realização de movimentações financeiras.</li>
 </ul>
 
-# Rodando o APP
+# Instruções para Configurar e Executar a Aplicação
 
-<ul>
-  <li>Para que seja possível realizar as ações do aplicativo é necessário estar rodando a aplicação [Bank Java] (https://github.com/ricardo-chies/Bank-Java).
-  Acesse o link, baixe e inicie a aplicação.</li>
-  <li>Execute `ng serve` para iniciar um servidor de desenvolvimento.</li>
-  <li>Navegue até `http://localhost:4200/`.</li>
-</ul>
+## Pré-requisitos
+- Node.js (versão 14 ou superior)
+- Angular CLI (versão 17.3.6 ou superior)
+
+## Instalação
+- Clone o repositório:
+```
+git clone https://github.com/ricardo-chies/Bank-App-Angular.git
+```
+
+- Instale as dependências
+```
+npm install
+```
+
+## Executando a Aplicação
+- Inicie o servidor de desenvolvimento
+```
+ng serve
+```
+- Acesse a aplicação
+Abra seu navegador web e navegue para http://localhost:4200.
+
+## Configuração do Backend
+- Para que seja possível realizar as ações do aplicativo é necessário estar rodando a aplicação Bank Java
+- Acesse o repositório [Bank Java](https://github.com/ricardo-chies/Bank-Java).
+- Siga o passo a passo para instalação do projeto descrito no Readme.
 
 # Layout do Projeto
 
